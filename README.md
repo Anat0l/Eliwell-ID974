@@ -1,4 +1,7 @@
 # Eliwell-ID974
+
+The project was developed by Microchip Studio.
+
 Automotive refrigeration controller program.
 For Eliwell ID974lx and IDPlus974.
 
